@@ -3,3 +3,4 @@ googlemaps
 pre-commit
 nbstripout
 ipykernel
+pandas

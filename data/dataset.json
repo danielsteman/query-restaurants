@@ -1,0 +1,1781 @@
+[
+  {
+    "html_attributions": [],
+    "next_page_token": "AfLeUgNgAFR08ZHqVaWWWBxNbD_cyU5zh5LAdHUODmk9OZJgBQKS11H448_HEoZbCyTP5IIT0qchhV3XhYJVigs0e186cEniV3jtTsKTxCXx1afZqlq15mZ3lV59sgoJkyR6l-gC0in-S5oIAEV_8stzQEy1by420j2rz5JXRKYskpWLl1j_HMUSev87z_dic2Mxnsbe-vZma8-ajnIR9UeeWE5oxCCusyS4ZKASWqvYYsPeZvgBVHLHz8fFxu-XbzgNGAkoGmNkQZtlg4UJBhPYSpjRgF6Bmho4qpvolDJ7scavsQZ5snXBUwn7F-pqrZBSxF0Uu8pa31d-e33DFxb6MQnLaqHCJYk-E8QfzWsJjgtZwOiCMvJCqcAz-ZAQfigb0oFWt_NOY8jwHmP_Dc0P052IfUJsDMGEw91rhKjqIZ8g8ls9QQAeg6RtbofHC1PtCDE",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.35111250000001,
+            "lng": 4.891212800000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3524223802915,
+              "lng": 4.892617780291502
+            },
+            "southwest": {
+              "lat": 52.34972441970851,
+              "lng": 4.889919819708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Le Pain Quotidien",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110409277743213052237\">Krunchy Krunchy</a>"
+            ],
+            "photo_reference": "AfLeUgN9ZL4FByCFrGJZYtaisRBN-0QLE-ss6K3fIhMonkZr1KMRna-WDhADagdk3tfu1WhZ4jk5OGXGlOtj76yDqVcINXf73fyDf31eVE2dfVG180Oca0tKIelqRk6PKaOHR3bEOk4rdfkNq5I0iQLcJB_Qi1DYxNKLJM1Bz76T8q3MZahz",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJHz2NVvMJxkcRd4hwz19K1B8",
+        "plus_code": {
+          "compound_code": "9V2R+CF Amsterdam, Netherlands",
+          "global_code": "9F469V2R+CF"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJHz2NVvMJxkcRd4hwz19K1B8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "cafe",
+          "bakery",
+          "store",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 377,
+        "vicinity": "Cornelis Troostplein 2 & 4, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.34666670000001,
+            "lng": 4.911111099999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.34803273029151,
+              "lng": 4.912580280291501
+            },
+            "southwest": {
+              "lat": 52.34533476970851,
+              "lng": 4.909882319708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Cafe Vrijdag",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102061187551809195719\">Cafe Vrijdag</a>"
+            ],
+            "photo_reference": "AfLeUgMPaiKNJvLl_5g1pwEuOTXYDFI4SEQaRn-RfbJ_DHvBfSTjkLROEe_dkx-Gp74IJNeb7pcpBjRYu8W38N-9QbQ9-Djl9-RTpGYzmvWofAwYSa2NszUs8DAZmFHiORKkdvvKXDbv1FznvMeFtfJrgG9baZ_I7eauIovJG1deAXLNL-zV",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJGb9v0oAJxkcRi95rEb68F7U",
+        "plus_code": {
+          "compound_code": "8WW6+MC Amsterdam, Netherlands",
+          "global_code": "9F468WW6+MC"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJGb9v0oAJxkcRi95rEb68F7U",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "cafe",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1368,
+        "vicinity": "Amsteldijk 137, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.35437349999999,
+            "lng": 4.899266000000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3556701802915,
+              "lng": 4.900584380291503
+            },
+            "southwest": {
+              "lat": 52.35297221970851,
+              "lng": 4.897886419708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Caf\u00e9 Sarphaat",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113125117483255101458\">Michael Weber</a>"
+            ],
+            "photo_reference": "AfLeUgMiLOOU_pC2LUDJ2gioS-JSyP3HfDAy84euOpbxuuteU2RuV6nf6xOG7H7so8luIFaxXhz-MtezRBEYpQNPpVzv0tScFnWNR4s7Hm3suTHqVIZm2x4bcu8OPS9ACM38aKfT8ZDOUM0K2VMl1JwwiFxbVIualChu-2aRXGhgzIFCUpX3",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJN2Rj2I8JxkcRnbwbrmS-6Oc",
+        "plus_code": {
+          "compound_code": "9V3X+PP Amsterdam, Netherlands",
+          "global_code": "9F469V3X+PP"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJN2Rj2I8JxkcRnbwbrmS-6Oc",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 708,
+        "vicinity": "Ceintuurbaan 157, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3498214,
+            "lng": 4.912584900000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.35116308029151,
+              "lng": 4.913850180291504
+            },
+            "southwest": {
+              "lat": 52.34846511970851,
+              "lng": 4.911152219708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Caf\u00e9 Hesp",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3581,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103907771274105749456\">Caf\u00e9-Restaurant Hesp</a>"
+            ],
+            "photo_reference": "AfLeUgNYS1XzNk7yyQ9pGQdhMXIegDroE90qyIFoMcm8fBNACC_FBioqTlSNupgEnsBs9eTNHLKSYT1odChYtJRNRTMh1Fdvh1nLLmcxZ8AoyYlCkJ3CLHwtgqUXuNKM5BkaiChEaXMevfFQOBDTYsEgT2Nd9cuWR0R_K9a-NmmUJxFXwds",
+            "width": 5371
+          }
+        ],
+        "place_id": "ChIJ-TJ34oMJxkcR2dSq1AvPMSM",
+        "plus_code": {
+          "compound_code": "8WX7+W2 Amsterdam, Netherlands",
+          "global_code": "9F468WX7+W2"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ-TJ34oMJxkcR2dSq1AvPMSM",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1073,
+        "vicinity": "Weesperzijde 130-131, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.34564489999999,
+            "lng": 4.895228999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.34690553029149,
+              "lng": 4.896561280291501
+            },
+            "southwest": {
+              "lat": 52.34420756970849,
+              "lng": 4.893863319708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "IJsland Smaakmakers",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100866133471049446168\">IJsland Smaakmakers</a>"
+            ],
+            "photo_reference": "AfLeUgPyd-AjYOqTjsCdpUpdOo9URTWv3YTzNxeiVuQsXHMbAAd2-H-hqnrwMy-WIzdRV2g-QeytRA23mHJKrgL-RfV3aKoAiSme4rc-O32Mjknac-lEnNGDH0V2I9n3JKfTJ7Y9Dn7AvTL0u-6ZOfYTC3XO3L74abgSU2YR51qZf1SXv_h0",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJhSCUd4oJxkcRl1Hlv6crAjU",
+        "plus_code": {
+          "compound_code": "8VWW+73 Amsterdam, Netherlands",
+          "global_code": "9F468VWW+73"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJhSCUd4oJxkcRl1Hlv6crAjU",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "store",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 200,
+        "vicinity": "Maasstraat 63, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.34507420000001,
+            "lng": 4.9053899
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.34636963029151,
+              "lng": 4.906790330291503
+            },
+            "southwest": {
+              "lat": 52.34367166970851,
+              "lng": 4.904092369708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Just-Because",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105961491442382126031\">Just-Because</a>"
+            ],
+            "photo_reference": "AfLeUgPxFVAmsaP0mnQGbt6kdYy20ewRq1hPsFtIkBFdady9wjrpeOczTOeNEy_hTuruKf-8lPVK6yQ82DEOvEK4VewfRq18sIYJEVGmTHONrYrstC4eKV7TsVXsbJimTXbonexGp1jrGGIkPy954mf7DakNHi8vMEkThcaZNwwnFdO-0Sl3",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJFVKt9YcJxkcRBhMuQBuiVec",
+        "plus_code": {
+          "compound_code": "8WW4+25 Amsterdam, Netherlands",
+          "global_code": "9F468WW4+25"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJFVKt9YcJxkcRBhMuQBuiVec",
+        "scope": "GOOGLE",
+        "types": [
+          "bakery",
+          "cafe",
+          "store",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 105,
+        "vicinity": "Lekstraat 58, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3461254,
+            "lng": 4.891330700000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3474823802915,
+              "lng": 4.892513530291503
+            },
+            "southwest": {
+              "lat": 52.3447844197085,
+              "lng": 4.889815569708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Vinnies",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2730,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102376093788414460210\">Vinnies</a>"
+            ],
+            "photo_reference": "AfLeUgMhln_qd0mNQJPfU4dclLnMVSAtXoEbsMvb7BM7jHKT3tLBoZa9FqKQ0jZWuEdXAjyCgpIMtcWE5DUiH176QoPp-y6BZLESX977I3Au1tYvtSVfcCJmwYpVfKpPRpnUpyptyVYWNr6ulJU9XGh3be_owwUSVH7mzsAB05Vl5-_ZkfVw",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJr2DprYoJxkcRCcEM0BM26aA",
+        "plus_code": {
+          "compound_code": "8VWR+FG Amsterdam, Netherlands",
+          "global_code": "9F468VWR+FG"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJr2DprYoJxkcRCcEM0BM26aA",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 366,
+        "vicinity": "Scheldestraat 45BG, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.34381330000001,
+            "lng": 4.9064839
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3451540802915,
+              "lng": 4.907672280291503
+            },
+            "southwest": {
+              "lat": 52.3424561197085,
+              "lng": 4.904974319708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Vascobelo V-bar Rijnstraat",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3669,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113809634972064072311\">Vascobelo V-bar Rijnstraat</a>"
+            ],
+            "photo_reference": "AfLeUgMrKPfM8CdbeJTMdWns_qMU5VfEmrDq_lbDl4-vc-D1ISevp42ukVlaqXs2hUYykwTINejOL1OGoeAVxmCapdb026SfNkR_ApipYiFXn_eIqFG7-nahJx__OqJRflb9EH7F4JuISMp2kt5pzME_GrNsuvxQYH0Ft6e1YmzmuE_eQzlI",
+            "width": 5503
+          }
+        ],
+        "place_id": "ChIJ44XZNigKxkcR_ZvuUU-AaT8",
+        "plus_code": {
+          "compound_code": "8WV4+GH Amsterdam, Netherlands",
+          "global_code": "9F468WV4+GH"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ44XZNigKxkcR_ZvuUU-AaT8",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 482,
+        "vicinity": "Rijnstraat 117, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.34856079999999,
+            "lng": 4.907901
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.34990978029149,
+              "lng": 4.909249980291502
+            },
+            "southwest": {
+              "lat": 52.34721181970849,
+              "lng": 4.906552019708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Sapmeesters",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109866864939714985657\">Sapmeesters</a>"
+            ],
+            "photo_reference": "AfLeUgPa3Z0hB6rLpdUZbMfepvWlXpFqIb-hGT8mAeuL3Sx2e_XhLu6JYvVCfC5q_0i7jnpli8-s3P7QtdHwG9q3u-mxuzHrJPoGr4tjbd6Jy8DksaEWPe9dBhSubtvGDnPcFP6LhajH_0E0_fHhbkFxJpNcbwMq0nNts8TBoUePcvoyjL7l",
+            "width": 600
+          }
+        ],
+        "place_id": "ChIJs_BW4ZoJxkcR0-f1YRFm5Ig",
+        "plus_code": {
+          "compound_code": "8WX5+C5 Amsterdam, Netherlands",
+          "global_code": "9F468WX5+C5"
+        },
+        "rating": 4.9,
+        "reference": "ChIJs_BW4ZoJxkcR0-f1YRFm5Ig",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 28,
+        "vicinity": "Ruyschstraat 34 HS, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3523812,
+            "lng": 4.894745200000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3537399302915,
+              "lng": 4.896139680291503
+            },
+            "southwest": {
+              "lat": 52.3510419697085,
+              "lng": 4.893441719708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Badeta Koffiebranders",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1192,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100363150787039722386\">Badeta Koffiebranders</a>"
+            ],
+            "photo_reference": "AfLeUgNW-qcEkQ2Z_I1hFhSgnL04_gdgIMh7MqMdzVZhZe9Uv0FS5FzKWRcqGg_lU9OmPlR5qfpwUi1Pih-XQ6_KzVtyIQ6sUNyOoW9QxjXxSas9S0Xt7W6rVVJrOBODgegRo78mSA0EiLqbMBurVnBfaAaf_QIZ6aU5grYcBljofY5o-cFu",
+            "width": 956
+          }
+        ],
+        "place_id": "ChIJcc3dW40JxkcRwCVKMk7Izjw",
+        "plus_code": {
+          "compound_code": "9V2V+XV Amsterdam, Netherlands",
+          "global_code": "9F469V2V+XV"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJcc3dW40JxkcRwCVKMk7Izjw",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "store",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 206,
+        "vicinity": "Tweede van der Helststraat 18H, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.35133099999999,
+            "lng": 4.891692000000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.35266018029149,
+              "lng": 4.892881330291504
+            },
+            "southwest": {
+              "lat": 52.34996221970849,
+              "lng": 4.890183369708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "STROOM in de Pijp",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101927502792934983168\">\u00c0 manger et \u00e0 voir</a>"
+            ],
+            "photo_reference": "AfLeUgPugxSKNjfgouSJgyxD3D_wVFa_diW7zvv4R6cW-kUE39sMG3wLXIa0sN5xZ4FOtphfj5kW2kIp-HWRZ9gEWdUgHEnjapGFCEhnGbzffBfDrBm6HD91AmB4g6-F0LYY1PGJv_VY-T4T8H4X6pFlabdXICjCTmj7FvvmQKNaghrivh_i",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJry_4UvMJxkcRZm_Fwgcf8bE",
+        "plus_code": {
+          "compound_code": "9V2R+GM Amsterdam, Netherlands",
+          "global_code": "9F469V2R+GM"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJry_4UvMJxkcRZm_Fwgcf8bE",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 367,
+        "vicinity": "Ferdinand Bolstraat 151, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.343875,
+            "lng": 4.891424
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3451967302915,
+              "lng": 4.892680280291502
+            },
+            "southwest": {
+              "lat": 52.3424987697085,
+              "lng": 4.889982319708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Broodjeszaak De Nieuwe RAI",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 507,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111594933572196864686\">Broodjeszaak De Nieuwe RAI</a>"
+            ],
+            "photo_reference": "AfLeUgPFh6gFvc5LT_UrHZWQkdLdBuPrpRNsLcwJOAm6SPqiBVsot0pVMaaBzmNm7NbTcOn5Y3vj9boNs6IwPSMogXhFk1G--J6JtEJTGvi4yam-b2jgmRMSkAZuT7dYVBGgXLskFaaeFJVb-F9WxXVKNb7p2t2UQ3F0BKWeNkVz5cuIYv7q",
+            "width": 900
+          }
+        ],
+        "place_id": "ChIJM166PCAKxkcReEs2B7E2D-8",
+        "plus_code": {
+          "compound_code": "8VVR+GH Amsterdam, Netherlands",
+          "global_code": "9F468VVR+GH"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJM166PCAKxkcReEs2B7E2D-8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 498,
+        "vicinity": "Europaplein 1, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3526079,
+            "lng": 4.8914267
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3540325302915,
+              "lng": 4.892815880291502
+            },
+            "southwest": {
+              "lat": 52.3513345697085,
+              "lng": 4.890117919708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Coffee & Coconuts.",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3840,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110728401233186727685\">Coffee &amp; Coconuts</a>"
+            ],
+            "photo_reference": "AfLeUgN6V6WgC3LK_V3Dvkl6vkeT79c59u0D_ekb6qaz_n0TXXhipSWNy5iw4wAj-BkSB7JYNCcbZgfBhoN3bKitsasPBAimgF3kKd5j55D7eD6TKGmojRr6ke9X0aIqtngnq3wezsDgsvIcu1uXlltv-WeDzOom1PLJOopxBM9bW3AHUrWc",
+            "width": 5760
+          }
+        ],
+        "place_id": "ChIJE7ZOMPMJxkcR66R6FxsNWSs",
+        "plus_code": {
+          "compound_code": "9V3R+2H Amsterdam, Netherlands",
+          "global_code": "9F469V3R+2H"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJE7ZOMPMJxkcR66R6FxsNWSs",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4477,
+        "vicinity": "Ceintuurbaan 282, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.34487799999999,
+            "lng": 4.894836
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.34623278029149,
+              "lng": 4.896372830291502
+            },
+            "southwest": {
+              "lat": 52.3435348197085,
+              "lng": 4.893674869708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "GOOS",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2878,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111941996399252793572\">Sam Aberman</a>"
+            ],
+            "photo_reference": "AfLeUgP_YMjsLG8OAJlRPDV54hZC8aF_Bk_7jkTNJOz_JdeTcPid0tN8qjV9Luw1ZOMegVj0uKTvVYsIz9ucde1wSRerzjNuKkSauviaOjK6CDXzVqDzLQ_JxYRkJWRdKnMzMoZs72KE_MCE-3JT1DTUzJsfCNQXQFipKydgyWC4OVVMD3jt",
+            "width": 3148
+          }
+        ],
+        "place_id": "ChIJ729UcIoJxkcR6P76tNLKuWM",
+        "plus_code": {
+          "compound_code": "8VVV+XW Amsterdam, Netherlands",
+          "global_code": "9F468VVV+XW"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ729UcIoJxkcR6P76tNLKuWM",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 412,
+        "vicinity": "Maasstraat 74, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3530885,
+            "lng": 4.9074488
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3544569802915,
+              "lng": 4.908784830291501
+            },
+            "southwest": {
+              "lat": 52.35175901970851,
+              "lng": 4.906086869708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Dragons Delight",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1280,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103580235747058031122\">Dragons Delight</a>"
+            ],
+            "photo_reference": "AfLeUgN4VbyhM5qCUQKYch_SXmPfjBn-2DegcfatE7OpgF0kK10NKaqZntn9t5vs7sNF9aQU2RIu8tBUaRnPkKpFFg_scNt835npwBCLc4od5zptZcO53-5utxx0jQxPWOyknnt0069W01e9sm74B_v2llGtsVJkvv29RPBuJOCmk3FcuMSP",
+            "width": 1898
+          }
+        ],
+        "place_id": "ChIJjZzfC4UJxkcRaD-Cui-PE_8",
+        "plus_code": {
+          "compound_code": "9W34+6X Amsterdam, Netherlands",
+          "global_code": "9F469W34+6X"
+        },
+        "rating": 4.4,
+        "reference": "ChIJjZzfC4UJxkcRaD-Cui-PE_8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 190,
+        "vicinity": "Tolstraat 200, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3452033,
+            "lng": 4.8905799
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3465491802915,
+              "lng": 4.892074580291502
+            },
+            "southwest": {
+              "lat": 52.3438512197085,
+              "lng": 4.889376619708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "At Seven",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105247054126332545553\">Diederik Jekel</a>"
+            ],
+            "photo_reference": "AfLeUgOx7Z4QU5v5XD9YehWolwXv6ZpNrF6KZo8cjZKfyAp5p7Zx9lZUXOMLv7udkV3Amvys5vgVA1IVhDP-nhDIdzskZpeGyuMrJXOstQ5zRKMqtsIHj8xVgfZ2NaWB4E0bUqdlu84Ces6XzwKRA2BQILtkxKwtHZ-iXD1-0QzHOkSPapg6",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ_z4mAyAKxkcRmaxRbH3RGhk",
+        "plus_code": {
+          "compound_code": "8VWR+36 Amsterdam, Netherlands",
+          "global_code": "9F468VWR+36"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ_z4mAyAKxkcRmaxRbH3RGhk",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 357,
+        "vicinity": "Scheldestraat 92, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.347541,
+            "lng": 4.910768199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.34889803029149,
+              "lng": 4.912248780291501
+            },
+            "southwest": {
+              "lat": 52.34620006970849,
+              "lng": 4.909550819708496
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "FEBO Amsterdam - Amsteldijk",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110050921187002461881\">FEBO Amsterdam - Amsteldijk</a>"
+            ],
+            "photo_reference": "AfLeUgNcAW74eYEebeVTbwWZ4pJ0la_JkvXNmtXxrQmMBeleqBoYpkJ9q6fobXQCJNF4Cfc3QafVygrk_DjnaaB2CHSFhCm9kUyLLwXm82L_sygxw13XG_f8zoPYnP25I1313j0mmDvfi-XkxlI505yZ6xmjWRW_Rh3E8LT5Pu8t6a5uDxCF",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJAcwrK4EJxkcR7OHjxG-qQ9k",
+        "plus_code": {
+          "compound_code": "8WX6+28 Amsterdam, Netherlands",
+          "global_code": "9F468WX6+28"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJAcwrK4EJxkcR7OHjxG-qQ9k",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 472,
+        "vicinity": "Amsteldijk 132-133, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3473341,
+            "lng": 4.904601700000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3485368302915,
+              "lng": 4.906074880291502
+            },
+            "southwest": {
+              "lat": 52.3458388697085,
+              "lng": 4.903376919708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Bar Bouwmeester",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109880748492847367536\">Bar Bouwmeester</a>"
+            ],
+            "photo_reference": "AfLeUgMKRY-e3bCADNJPk_ocerxYjeE86yqcjRtIfi4ALvlll6DKP2jdeYfVLwI1mmdHKiixlKVlYu54E9zPuLUlaNApBOQF6U1Yh07vDQYdBHdDADB06jVgnBusMVksnnUyBQYLtmb_HWHiDMyr3Hhrtw5XvTv6NfoenmYUMXMVvNh5Q_KI",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJK2gz1IcJxkcRynDyeyuadDU",
+        "plus_code": {
+          "compound_code": "8WW3+WR Amsterdam, Netherlands",
+          "global_code": "9F468WW3+WR"
+        },
+        "rating": 4.8,
+        "reference": "ChIJK2gz1IcJxkcRynDyeyuadDU",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 207,
+        "vicinity": "Rijnstraat 36, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.34862409999999,
+            "lng": 4.893170200000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3499683302915,
+              "lng": 4.894630430291504
+            },
+            "southwest": {
+              "lat": 52.3472703697085,
+              "lng": 4.891932469708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Le Camelia",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105623111801265926706\">\u5409\u5409\u5148\u68ee</a>"
+            ],
+            "photo_reference": "AfLeUgMJkPJMwkoEEXyRzhe1yyQWTkb-Y_2QpFSQF6UxsrRgafFF2d4Y3TkRgg1ih7Wgv2PRfkCPNdDjTBbr5Dvl8qAFUfxhL8Zw1qc37AEwXXK_pX3msgi_p1Merv8-5Xk6cbc6AODefMiiXqhXG8i9Q5gBMXFhBZXmaTyOMm7VEmFAjMa-",
+            "width": 2268
+          }
+        ],
+        "place_id": "ChIJj_qLMosJxkcRLMxN3l_CJ24",
+        "plus_code": {
+          "compound_code": "8VXV+C7 Amsterdam, Netherlands",
+          "global_code": "9F468VXV+C7"
+        },
+        "rating": 4.5,
+        "reference": "ChIJj_qLMosJxkcRLMxN3l_CJ24",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 13,
+        "vicinity": "Ferdinand Bolstraat 333, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3497229,
+            "lng": 4.904174100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3508973302915,
+              "lng": 4.905486480291502
+            },
+            "southwest": {
+              "lat": 52.3481993697085,
+              "lng": 4.902788519708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Steak House Van Woustraat",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108554118250834691261\">Asso Safai</a>"
+            ],
+            "photo_reference": "AfLeUgPkCIasYjSrmYUWnXnAhKsKqquHkOklFiTONUWrwxp2tSn6QSiewveHotBarxpZyIdcimCD5YBI0nwlhnataJj4DO2BJl99XYqvTQiZuEtajUNmgD4QXsEc4OsndrBbhsm1JPlMSqsbesFOIxDlYcmT_-I8f9755dcn90PIAH5hjHO8",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJXyfNsYgJxkcRSUn2_tWUh9M",
+        "plus_code": {
+          "compound_code": "8WX3+VM Amsterdam, Netherlands",
+          "global_code": "9F468WX3+VM"
+        },
+        "rating": 3.2,
+        "reference": "ChIJXyfNsYgJxkcRSUn2_tWUh9M",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 177,
+        "vicinity": "Van Woustraat 235, Amsterdam"
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.350036,
+            "lng": 4.903555
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3509987802915,
+              "lng": 4.905098080291502
+            },
+            "southwest": {
+              "lat": 52.34830081970851,
+              "lng": 4.902400119708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Monsieur Croque",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117543102062498935761\">Monsieur Croque</a>"
+            ],
+            "photo_reference": "AfLeUgM6-0qefeX6aJ7v2W_s96oR8nzoMQg5iW-Q9IqKsHdXY6rzKKrjsQVvcSXxw0NyRNtdiHxbJDmAMBnU7BZ6roex5GuNjxebVrEd8rhzsoa0dDKIpe2fdEiLo79FiYyDnEyLpCSHxut0L4eT7kxZaYwWVXOX4Aytm62yCoAyKzNgJb0I",
+            "width": 3167
+          }
+        ],
+        "place_id": "ChIJ32DvpS0JxkcRRtBgYNYyDEQ",
+        "plus_code": {
+          "compound_code": "9W23+2C Amsterdam, Netherlands",
+          "global_code": "9F469W23+2C"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ32DvpS0JxkcRRtBgYNYyDEQ",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 73,
+        "vicinity": "Van Woustraat 224H, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3442647,
+            "lng": 4.8915519
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.34562923029151,
+              "lng": 4.892741380291502
+            },
+            "southwest": {
+              "lat": 52.34293126970851,
+              "lng": 4.890043419708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Sushi Daily",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103924782028987001244\">Sushi Daily</a>"
+            ],
+            "photo_reference": "AfLeUgMjM3oc3iM1RL3Z6iDI8enR_lwj3ERiNZTf8pfBNB5S9AfzOsIN_lp_eTHvUiEk0dZQJvhqxEnITbB2USs3rCZUGA3F-E04jCdEZdpi3lpyLUbMAB_VasufXeuMVl-B7cdN9P9Nd3zYfmUh6FYTMOxASj2I2K_6gw_qnXo_WSWswntg",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJTxK49z0LxkcR6-ly8Dlgzfw",
+        "plus_code": {
+          "compound_code": "8VVR+PJ Amsterdam, Netherlands",
+          "global_code": "9F468VVR+PJ"
+        },
+        "reference": "ChIJTxK49z0LxkcR6-ly8Dlgzfw",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Scheldeplein 5, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.34238920000001,
+            "lng": 4.892887099999998
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3435954302915,
+              "lng": 4.894334480291502
+            },
+            "southwest": {
+              "lat": 52.3408974697085,
+              "lng": 4.891636519708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "De Uitsmijter",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1500,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101837034383825198430\">De Uitsmijter</a>"
+            ],
+            "photo_reference": "AfLeUgP1jW6YO3hyf9iR3UrN06IvumSn6T-HLL5sGOwU07EfIJgNtUSTA4yfOcn0ksHup1IrxIFnQVyxYzOQUO9rvbMw1H5Yn5b0EiChWrtdmukfO20no_8IZkGQNEzTbupS7qryoTfavHXDmaPp_DdrJm4ajMGfv6Fi-UxGd7Wlh9LJZRbu",
+            "width": 1500
+          }
+        ],
+        "place_id": "ChIJLZ1VdDILxkcRUEdnXfC9VjI",
+        "plus_code": {
+          "compound_code": "8VRV+X5 Amsterdam, Netherlands",
+          "global_code": "9F468VRV+X5"
+        },
+        "rating": 4.3,
+        "reference": "ChIJLZ1VdDILxkcRUEdnXfC9VjI",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "store",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 215,
+        "vicinity": "Europaplein 71, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.35006380000001,
+            "lng": 4.906192100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3514355302915,
+              "lng": 4.907532380291501
+            },
+            "southwest": {
+              "lat": 52.3487375697085,
+              "lng": 4.904834419708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Eetkeet Bang Bang",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105372516072100445972\">Stan</a>"
+            ],
+            "photo_reference": "AfLeUgNNbnLsokGWkkUAcJfrcgWFJTa9n3F1yMlJwstXVUxIIxk7yDQSo4HmBpDpIzbjC4eg4LJdodCDQ2cDPOVHlFjVYGJyq-Tx3nQFj7-E1TIZGewj0-IfdP01N4ebPVG_2Qb1WCMzvfflnm9mD7e4COl8Gpzj9pPm3scZ-3GDQf1IAvxI",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJifRDwncJxkcR2RJsr-H35XQ",
+        "plus_code": {
+          "compound_code": "9W24+2F Amsterdam, Netherlands",
+          "global_code": "9F469W24+2F"
+        },
+        "rating": 4.1,
+        "reference": "ChIJifRDwncJxkcR2RJsr-H35XQ",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "Granaatstraat 64, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3515646,
+            "lng": 4.903009
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.35286318029151,
+              "lng": 4.904412280291502
+            },
+            "southwest": {
+              "lat": 52.35016521970851,
+              "lng": 4.901714319708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "El Mauri",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 6356,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101898610500324746117\">Deepak Pillai - The Globetrotter</a>"
+            ],
+            "photo_reference": "AfLeUgNcUOyoU4NKtKnpNLLGYT4lfVVqY9PcrIH9UXy6w6GbordSyRJ8qqFXQ01oLxc711f0xB25tcNs_JPvxqwoFxCsah_VvLGP2WWGDvc_TNFEu1_GRCHEZQ5TN0oc0mWbebKoMRChwd3E2wWFjL9ZZSLsNkk3VZHtnouQ0gLn64ia513y",
+            "width": 6048
+          }
+        ],
+        "place_id": "ChIJE83IPY8JxkcR6tfkmSh4x8Q",
+        "plus_code": {
+          "compound_code": "9W23+J6 Amsterdam, Netherlands",
+          "global_code": "9F469W23+J6"
+        },
+        "rating": 4.7,
+        "reference": "ChIJE83IPY8JxkcR6tfkmSh4x8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 135,
+        "vicinity": "Van Woustraat 180, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3441761,
+            "lng": 4.908500200000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3455035802915,
+              "lng": 4.909793480291504
+            },
+            "southwest": {
+              "lat": 52.3428056197085,
+              "lng": 4.907095519708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Bruist",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107714686748299360266\">Mark V\u00e4ljak</a>"
+            ],
+            "photo_reference": "AfLeUgOGFEzjLeXQOpJlGeVldk3RTyNhOo78aYJEnc-VAEefV2l0WkM4XPeeSKRPLXszQd357WPo_p7sXTk1vIxeRAV54qsV-SExbLpBcim7srO8FE3M8PdZ0Nsk6Wm8t_ILYnEaVy9dZ8sMYF67vG-7pBeqXY4MlQfnyNPxClVpNQvKwrSf",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJkW693CkKxkcRsCCW64-TRYI",
+        "plus_code": {
+          "compound_code": "8WV5+MC Amsterdam, Netherlands",
+          "global_code": "9F468WV5+MC"
+        },
+        "rating": 4.5,
+        "reference": "ChIJkW693CkKxkcRsCCW64-TRYI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 139,
+        "vicinity": "Trompenburgstraat 103, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.35242909999999,
+            "lng": 4.9027577
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.35373663029149,
+              "lng": 4.904192680291502
+            },
+            "southwest": {
+              "lat": 52.3510386697085,
+              "lng": 4.901494719708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Chiqueolatte Amsterdam",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113875464313282355359\">Ahmad AL Istwani</a>"
+            ],
+            "photo_reference": "AfLeUgMQi5lEdVy0V09QuWG2Ds-NIQa6PvLyyn1rY6-2a2KsXN-WLIIJy6OKXgY77M0ygVRDR9_pbhbEq6wbQ1-ptD0Z-c5ikJhknMD0_3isCFX78Abpc19Y-7cy5uVt3viANzOtqxY-dw9_fEif5yMevFW_4bJNCiyxz9OVpIyvMDSmY5zZ",
+            "width": 2252
+          }
+        ],
+        "place_id": "ChIJfQVRNFkJxkcRqbIRePqcSE0",
+        "plus_code": {
+          "compound_code": "9W23+X4 Amsterdam, Netherlands",
+          "global_code": "9F469W23+X4"
+        },
+        "rating": 5,
+        "reference": "ChIJfQVRNFkJxkcRqbIRePqcSE0",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "store",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "Van Woustraat 158, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3510201,
+            "lng": 4.8918938
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3524189802915,
+              "lng": 4.893050430291503
+            },
+            "southwest": {
+              "lat": 52.3497210197085,
+              "lng": 4.890352469708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Sushi Daily",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114259129192619781185\">Sushi Daily</a>"
+            ],
+            "photo_reference": "AfLeUgN1d8EBPKaWMFgQSLXBMVSL30hxtRqbrEU3lD3ZCbxgEsMyT5X7bMoQr_UTd9sZEM-dKv_FgwaCmCiYI9wWgkXYH7dQB0uBkXf_2-7vrJsyJ4Bwplc-FPQtAfM5v767dCuxfjjqkaPRjdmK2QBQrg57N3kESPZ9g74z8HsVrq-n91m1",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJWassOG8JxkcRw7oFHteC56M",
+        "plus_code": {
+          "compound_code": "9V2R+CQ Amsterdam, Netherlands",
+          "global_code": "9F469V2R+CQ"
+        },
+        "rating": 5,
+        "reference": "ChIJWassOG8JxkcRw7oFHteC56M",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "Cornelis Troostplein 11, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3530154,
+            "lng": 4.8914691
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3542974802915,
+              "lng": 4.892842230291502
+            },
+            "southwest": {
+              "lat": 52.3515995197085,
+              "lng": 4.890144269708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Subway",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 750,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116809911981229101880\">Mike van der Kuijl</a>"
+            ],
+            "photo_reference": "AfLeUgO4-Qkm1Dh9UdGQ0EiJx5gMSOMMHIGZXYFk8m-9IGhGCHUPfwqQt3tjYIGZ5LkuhqZaK8L3K9YELeFuFOp3BYe4RAjLT98N2SmSqG5akM2zkBsB7Oe_2mHUqNk3YqSbVGfJE67LuIqcY92ZdSj6BbSgDjGBywAYJ6WJkZ-n7IBowqR8",
+            "width": 1000
+          }
+        ],
+        "place_id": "ChIJZSsIL_MJxkcRMZGiFS8FTNg",
+        "plus_code": {
+          "compound_code": "9V3R+6H Amsterdam, Netherlands",
+          "global_code": "9F469V3R+6H"
+        },
+        "price_level": 2,
+        "rating": 3.7,
+        "reference": "ChIJZSsIL_MJxkcRMZGiFS8FTNg",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 293,
+        "vicinity": "Ceintuurbaan 93, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3519768,
+            "lng": 4.8911637
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.35331593029151,
+              "lng": 4.892588680291503
+            },
+            "southwest": {
+              "lat": 52.35061796970852,
+              "lng": 4.889890719708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Gs de Pijp",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113962330926890590281\">Miss G\u2019s</a>"
+            ],
+            "photo_reference": "AfLeUgMJLzm7WxmWxfM5jPxF8RpGyZXQyhF0gxREEgv4uwmGqg7pna7mE0U670tE_NiP2t3EUzzytDomEtB3TJpLJM8kuelOtUsyQIDhhLh93dPS21F_eaGROitPnap514WrAI_9mfwdCqprJAn-kt3pIV0uxaTx8Dtr7rPt7qPUm71qLbHi",
+            "width": 1600
+          }
+        ],
+        "place_id": "ChIJXTSPSPMJxkcRVsk22lc8JdU",
+        "plus_code": {
+          "compound_code": "9V2R+QF Amsterdam, Netherlands",
+          "global_code": "9F469V2R+QF"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJXTSPSPMJxkcRVsk22lc8JdU",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "bar",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 417,
+        "vicinity": "Ferdinand Bolstraat 158, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.35260049999999,
+            "lng": 4.891012
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3539464302915,
+              "lng": 4.892417080291502
+            },
+            "southwest": {
+              "lat": 52.3512484697085,
+              "lng": 4.889719119708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Ron Verboom Bakkerij",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108101621642024192804\">Catherine Francis</a>"
+            ],
+            "photo_reference": "AfLeUgNN_ERfu6l3lRlj7VaXvx6hqqA-tPbHFFSrFSbT-PZyaLV_obZPzFjxfbx7AeVf_TbD1r0OOtzaju9Lb2hx-U1BGH0HufrrhheHuS6eRJYTslEwgW1D4gjiwkLA4IldUH3grSWSOtMTvfekWIbbainduBTxrNbjQLYZOaZbmRnZj6vb",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJl4mqO_MJxkcRxp5pYVb2TWM",
+        "plus_code": {
+          "compound_code": "9V3R+2C Amsterdam, Netherlands",
+          "global_code": "9F469V3R+2C"
+        },
+        "rating": 3.7,
+        "reference": "ChIJl4mqO_MJxkcRxp5pYVb2TWM",
+        "scope": "GOOGLE",
+        "types": [
+          "bakery",
+          "store",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 75,
+        "vicinity": "Ceintuurbaan 278, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.35297709999999,
+            "lng": 4.891311099999998
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.3542672802915,
+              "lng": 4.892681330291501
+            },
+            "southwest": {
+              "lat": 52.3515693197085,
+              "lng": 4.889983369708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "JOE & THE JUICE",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1192,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111102520851647413977\">JOE &amp; THE JUICE</a>"
+            ],
+            "photo_reference": "AfLeUgOH6jJzwhDwyR6lcV6N6gbf50ehxWMx8lqGzxoRaruyps56vtqUN4rIm1iMDGrvHzhErclLxH60J-E3RiWDrxbFgTqoHAEId2yGIiYuq7SXceZ6qh2YeP-n7kAXIs2mNmjerq25vj3j1y3qkpJ6ASwfWxX0Jwl08kM_wAVAKk-aWJTE",
+            "width": 2120
+          }
+        ],
+        "place_id": "ChIJpc3UMrwJxkcRG9F9Muue3xo",
+        "plus_code": {
+          "compound_code": "9V3R+5G Amsterdam, Netherlands",
+          "global_code": "9F469V3R+5G"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJpc3UMrwJxkcRG9F9Muue3xo",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "meal_takeaway",
+          "store",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 183,
+        "vicinity": "Ferdinand Bolstraat 113H, Amsterdam"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 52.3544663,
+            "lng": 4.9017164
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 52.35579258029151,
+              "lng": 4.903026880291502
+            },
+            "southwest": {
+              "lat": 52.35309461970851,
+              "lng": 4.900328919708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Snackbar Babo",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117058379636865712699\">Sean Paling</a>"
+            ],
+            "photo_reference": "AfLeUgOKHyYD-XdPgwG_rFWYFvWJxVox-F0jAFBauUcTrSDGeF_GvEIUth8b-Vc9kfxEVa81wKYJM0zDY7bMfCHIvNNMmne1SbAjIq0sd9t3b5OjEc6CxxPy_-LdO01D9jQwAjHeiTs8b-ACb1fIAe3Ea7DYqA1NKMgmPwCkV8dyGRleL4df",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJEfcuNo4JxkcRDWourNvH_34",
+        "plus_code": {
+          "compound_code": "9W32+QM Amsterdam, Netherlands",
+          "global_code": "9F469W32+QM"
+        },
+        "rating": 2.6,
+        "reference": "ChIJEfcuNo4JxkcRDWourNvH_34",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 85,
+        "vicinity": "Van Woustraat 93, Amsterdam"
+      }
+    ],
+    "status": "OK"
+  }
+]

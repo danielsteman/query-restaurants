@@ -4,6 +4,7 @@ import os
 from dataclasses import dataclass
 from dotenv import load_dotenv
 from typing import Dict
+from pydantic import BaseModel
 
 
 load_dotenv()
@@ -22,8 +23,7 @@ params = {
     "type": "restaurant",
 }
 
-@dataclass
-class Place:
+class Place(BaseModel):
     id: str
     name: str
     location: Dict[str, float]

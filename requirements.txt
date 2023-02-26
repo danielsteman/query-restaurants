@@ -4,3 +4,4 @@ pre-commit
 nbstripout
 ipykernel
 pandas
+pydantic
